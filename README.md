@@ -93,5 +93,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## 🔗 Links  
 - [TensorFlow Documentation](https://www.tensorflow.org/)  
 - [Yahoo Finance API](https://pypi.org/project/yfinance/)  
-- [Project Repository](https://github.com/your-username/StockPricePrediction)  
-```  
+- [Project Repository](https://github.com/your-username/StockPricePrediction)
